@@ -3,6 +3,6 @@
 Three.js viewer for a model of the Alcator C-Mod tokamak at MIT.
 
 <p align="center">
-  <img src="https://i.imgur.com/B2TOCst.png">
+  <img style="border-radius: 4px;" src="https://i.imgur.com/B2TOCst.png">
 </p>
 
